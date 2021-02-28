@@ -1,4 +1,3 @@
-# Lab8
+Yichen Yang (A15512721)
 
-Cypress and Jest weren't working too well together
-so we've separated the two out in different parts
+& Haoyang Xie (A15473810)
